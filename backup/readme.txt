@@ -1,1 +1,1 @@
-stores database backup files.
+stores configuration files.
